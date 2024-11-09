@@ -1,0 +1,119 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\001.bmp"
+
+IDB_BITMAP2             BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\002.bmp"
+
+IDB_BITMAP3             BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\003.bmp"
+
+IDB_BITMAP4             BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\004.bmp"
+
+IDB_BITMAP5             BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\005.bmp"
+
+IDB_BITMAP6             BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\006.bmp"
+
+IDB_BITMAP7             BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\007.bmp"
+
+IDB_BITMAP8             BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\008.bmp"
+
+IDB_BITMAP9             BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\009.bmp"
+
+IDB_BITMAP10            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\010.bmp"
+
+IDB_BITMAP11            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\011.bmp"
+
+IDB_BITMAP12            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\012.bmp"
+
+IDB_BITMAP13            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\013.bmp"
+
+IDB_BITMAP14            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\014.bmp"
+
+IDB_BITMAP15            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\015.bmp"
+
+IDB_BITMAP16            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\016.bmp"
+
+IDB_BITMAP17            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\017.bmp"
+
+IDB_BITMAP18            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\018.bmp"
+
+IDB_BITMAP19            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\019.bmp"
+
+IDB_BITMAP20            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\020.bmp"
+
+IDB_BITMAP21            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\021.bmp"
+
+IDB_BITMAP22            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\022.bmp"
+
+IDB_BITMAP23            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\023.bmp"
+
+IDB_BITMAP24            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\024.bmp"
+
+IDB_BITMAP25            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\025.bmp"
+
+IDB_BITMAP26            BITMAP                  "C:\\Users\\David\\source\\repos\\DigitalRainShowers\\Dependencies\\Textures\\026.bmp"
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

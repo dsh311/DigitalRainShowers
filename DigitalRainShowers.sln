@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DigitalRainShowers", "DigitalRainShowers\DigitalRainShowers.vcxproj", "{14ED59FB-84D1-447D-8C2C-C1EEAFC7C217}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B6BC12A-EFA7-437E-AD86-54C617EA8220}"
+	ProjectSection(SolutionItems) = preProject
+		Dependencies\include\GL\LICENSE_Freeglut.txt = Dependencies\include\GL\LICENSE_Freeglut.txt
+		Dependencies\include\glm\LICENSE_GLM.txt = Dependencies\include\glm\LICENSE_GLM.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14ED59FB-84D1-447D-8C2C-C1EEAFC7C217}.Debug|x64.ActiveCfg = Debug|x64
+		{14ED59FB-84D1-447D-8C2C-C1EEAFC7C217}.Debug|x64.Build.0 = Debug|x64
+		{14ED59FB-84D1-447D-8C2C-C1EEAFC7C217}.Debug|x86.ActiveCfg = Debug|Win32
+		{14ED59FB-84D1-447D-8C2C-C1EEAFC7C217}.Debug|x86.Build.0 = Debug|Win32
+		{14ED59FB-84D1-447D-8C2C-C1EEAFC7C217}.Release|x64.ActiveCfg = Release|x64
+		{14ED59FB-84D1-447D-8C2C-C1EEAFC7C217}.Release|x64.Build.0 = Release|x64
+		{14ED59FB-84D1-447D-8C2C-C1EEAFC7C217}.Release|x86.ActiveCfg = Release|Win32
+		{14ED59FB-84D1-447D-8C2C-C1EEAFC7C217}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D6FCF0B-34D6-4DCA-92CF-440FCD8487A8}
+	EndGlobalSection
+EndGlobal
